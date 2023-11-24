@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Page from "./page"
+import AnswerCard from './AnswerCard'
 
 function Ques({ heading }) {
 
@@ -32,7 +32,7 @@ function Ques({ heading }) {
                         ))}
                     </ul>
                 </div>
-                <Page quesans={quesAns} />
+                <AnswerCard quesans={quesAns} />
             </div>
         </>
     )
