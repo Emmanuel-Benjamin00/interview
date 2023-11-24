@@ -1,6 +1,6 @@
 import React from "react"
 import Sidebar from "./components/Sidebar"
-import { BrowserRouter, Routes, Route, Navigate, Link } from "react-router-dom"
+import { BrowserRouter, Routes, Route, Navigate} from "react-router-dom"
 import DataFeed from "./components/DataFeed"
 
 function App() {

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import Page from './page'
+import Page from "./page"
 
 function Ques({ heading }) {
 
