@@ -1,0 +1,11 @@
+.page{
+  display: flex;
+  height: 94vh;
+  /* justify-content: center;
+  align-items: center; */
+  
+}
+
+.pointer{
+  cursor: pointer;
+}
